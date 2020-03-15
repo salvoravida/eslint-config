@@ -1,0 +1,31 @@
+{
+  "name": "@salvoravida/eslint-config",
+  "version": "0.0.3",
+  "description": "@salvoravida eslint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvoravida/eslint-config"
+  },
+  "author": "Salvatore Ravidà",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salvoravida/eslint-config/issues"
+  },
+  "homepage": "https://github.com/salvoravida/eslint-config#readme",
+  "peerDependencies": {},
+  "dependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "6.8.0",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-airbnb-base": "14.1.0",
+    "eslint-config-prettier": "6.10.0",
+    "eslint-config-react-app": "5.2.0",
+    "eslint-plugin-flowtype": "4.6.0",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.19.0",
+    "eslint-plugin-react-hooks": "2.5.0",
+    "prettier": "1.19.1"
+  }
+}
